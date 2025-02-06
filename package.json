@@ -1,0 +1,20 @@
+{
+  "name": "practices",
+  "version": "1.0.0",
+  "description": "1. 자바스크립트 애플리케이션 또는 라이브러리를 개발하기 위해 node(또는 javascript) 프로젝트를 만들고 설정해야 한다.\r 2. npm(node package manager)를 사용하여 프로젝트를 생성하고 설정할 수 있다.\r 3. 프로젝트 구조\r    - package.json         [프로젝트 페니페스트]\r    - package.json.lock    [설치 패키지 의존성 lock]\r    - /src                 [개발 소스] \r    - /static              [개발 리소스]\r    - /node-modules        [외부모듈(라이브러리 + 개발도구)]\r 4. node 모듈\r    - 코어 모듈: node에서 제공하는 모듈(fs, os, process, http, ...)\r    - npm 모듈: npm을 통해서 node_modules에 설치하고 사용하는 모듈    \r    - 파일 모듈: 파일 경로로 불러올수 있는 모듈. 보통 자바스크립트 소스 파일이다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAY0522/node-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAY0522/node-practices/issues"
+  },
+  "homepage": "https://github.com/DAY0522/node-practices#readme"
+}
