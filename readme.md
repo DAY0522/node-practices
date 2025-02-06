@@ -32,7 +32,3 @@
 #### 04. 서버 프로그래밍(JavaScript Backed Web) 맛보기 -  (예제: ex04)
 1. 초간단 서버(ex01.js)
 2. static 리소스 서버(ex02.js)
-# node-practices
-# node-practices
-# node-practices
-# node-practices
